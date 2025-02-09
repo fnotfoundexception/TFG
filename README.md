@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Descripción del Proyecto  
-¡Bienvenido/a a mi proyecto final de grado! 🎉  
+¡Bienvenid@ a nuestro proyecto final de grado! 🎉  
 
 En este proyecto, Hemos desarrollado una **solución innovadora** para la gestión de citas en peluquerías. Nuestra aplicación es tanto para clientes (**reservar citas**) como para pelqueros (**gestionar citas**).
 
