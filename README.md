@@ -8,7 +8,7 @@
 ## 🌟 Descripción del Proyecto  
 ¡Bienvenido/a a mi proyecto final de grado! 🎉  
 
-En este proyecto, voy a desarrollar una **solución innovadora** para la gestión de citas en peluquerías. La aplicación es tanto para clientes (**reservar citas**) como pelqueros (**gestionar citas**).
+En este proyecto, Hemos desarrollado una **solución innovadora** para la gestión de citas en peluquerías. Nuestra aplicación es tanto para clientes (**reservar citas**) como para pelqueros (**gestionar citas**).
 
 ---
 
@@ -27,7 +27,3 @@ En este proyecto, voy a desarrollar una **solución innovadora** para la gestió
 ✅ **Panel de administración**: Los peluqueros gestionan citas y disponibilidad.  
 ✅ **Notificaciones**: Avisos de confirmación y recordatorios.  
 ✅ **Historial de citas**: Registro de clientes y servicios realizados.  
-
----
-
-
